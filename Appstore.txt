@@ -1,8 +1,0 @@
-<sky>
-https://assetstore.unity.com/packages/2d/textures-materials/sky/free-stylized-skybox-212257
-
-<임펙트>
-https://assetstore.unity.com/packages/vfx/particles/hit-impact-effects-free-218385
-
-<fruit>
-https://assetstore.unity.com/packages/3d/props/food/low-poly-fruit-pickups-98135
