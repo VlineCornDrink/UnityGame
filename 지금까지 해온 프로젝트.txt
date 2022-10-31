@@ -6,3 +6,6 @@ FirstProject
 2D 슈팅게임
 UI Test
 Clicker
+BangChi
+
+// BangChi Clicker platformmer 는 다시 가져오기
